@@ -16,3 +16,13 @@ Front-end course from Kottans
 - [ ] Memory – Pair Game - practice
 - [ ] Website Performance Optimization - optional
 - [ ] Friends App - practice
+
+### Git intro
+This task a little bit extaned my understanging of git and showed the way to grow up
+<details><summary>Screenshots</summary>
+
+   
+  
+ 
+
+</details>

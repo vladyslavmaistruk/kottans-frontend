@@ -1,6 +1,6 @@
 # kottans-frontend
 Front-end course for Kottans
-Tasks Progress
+- **Tasks Progress**
 - [ ] Git intro
 - [ ] Linux CLI, HTTP
 - [ ] Git for Team Collaboration

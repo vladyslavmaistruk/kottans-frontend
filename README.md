@@ -1,5 +1,5 @@
 # kottans-frontend
-Front-end course for Kottans
+Front-end course from Kottans
 - **Tasks Progress**
 - [ ] Git intro
 - [ ] Linux CLI, HTTP

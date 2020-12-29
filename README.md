@@ -17,7 +17,7 @@ Front-end course from Kottans
 - [ ] Website Performance Optimization - optional
 - [ ] Friends App - practice
 
-### Git intro
+### 1. Git intro
 This task a little bit extaned my understanging of git and showed the way to grow up
 <details><summary>Screenshots</summary>
 

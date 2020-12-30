@@ -20,7 +20,9 @@ Front-end course from Kottans
 ### 1. Git intro
 This task a little bit extaned my understanging of git and showed the way to grow up
 <details><summary>Screenshots</summary>
-![alt tag](/1-git_intro/version_control_with_GIT_udacity.png "Version Control with GIT")
-![GIT Main](1-git_intro/git_main.png)
-![GIT Remote](1-git_intro/git_remote.png)
+![GIT Main](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/git_main.png)
+
+![GIT Remote](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/git_remote.png)
+
+![Version Control with GIT](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/version_control_with_GIT_udacity.png)
 </details>

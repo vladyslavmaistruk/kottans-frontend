@@ -31,7 +31,7 @@ This task a little bit extaned my understanging of git and showed the way to gro
 
 ### 2. Linux CLI and HTTP
 Goog task to start learning bash
-<details><summary>Screenshot</summary>
+<details><summary>Screenshots</summary>
   
 ![Linux Survival](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/task_linux_cli/linuxsurvival.com.png)
 

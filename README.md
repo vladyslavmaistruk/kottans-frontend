@@ -28,3 +28,12 @@ This task a little bit extaned my understanging of git and showed the way to gro
 ![Version Control with GIT](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/version_control_with_GIT_udacity.png)
 
 </details>
+
+### 2. Linux CLI and HTTP
+Goog task to start learning bash
+<details><summary>Screenshot</summary>
+  
+![Linux Survival](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/git_main.png)
+
+</details>
+

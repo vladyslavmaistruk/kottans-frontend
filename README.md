@@ -1,8 +1,8 @@
 # kottans-frontend
 Front-end course from Kottans
 - **Tasks Progress**
-- [ ] Git intro
-- [ ] Linux CLI, HTTP
+- [x] Git intro
+- [x] Linux CLI, HTTP
 - [ ] Git for Team Collaboration
 - [ ] Front-End Basics
 - [ ] Responsive Layouts
@@ -33,7 +33,7 @@ This task a little bit extaned my understanging of git and showed the way to gro
 Goog task to start learning bash
 <details><summary>Screenshot</summary>
   
-![Linux Survival](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/git_main.png)
+![Linux Survival](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/task_linux_cli/linuxsurvival.com.png)
 
 </details>
 

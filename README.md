@@ -3,7 +3,7 @@ Front-end course from Kottans
 - **Tasks Progress**
 - [x] Git intro
 - [x] Linux CLI, HTTP
-- [ ] Git for Team Collaboration
+- [x] Git for Team Collaboration
 - [ ] Front-End Basics
 - [ ] Responsive Layouts
 - [ ] HTML & CSS Practice - practice
@@ -33,7 +33,14 @@ This task a little bit extaned my understanging of git and showed the way to gro
 Goog task to start learning bash
 <details><summary>Screenshots</summary>
   
-![Linux Survival](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/task_linux_cli/linuxsurvival.com.png)
+![Linux Survival](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/2-task_linux_cli/linuxsurvival.com.png)
 
 </details>
 
+### 3. Git Collaboration
+Rewiev what I've learnt refore
+<details><summary>Screenshots</summary>
+  
+![GitHub & Collaboration](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/3-git_collaboration/git_collaboration_course.png)
+
+</details>

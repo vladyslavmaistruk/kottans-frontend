@@ -41,6 +41,6 @@ Goog task to start learning bash
 Rewiev what I've learnt refore
 <details><summary>Screenshots</summary>
   
-![GitHub & Collaboration](https://github.com/vladyslavmaistruk/kottans-frontend/tree/main/3-git_collaboration)
+![GitHub & Collaboration](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/3-git_collaboration/git_collabration_course.png)
 
 </details>

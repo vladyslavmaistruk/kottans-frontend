@@ -18,14 +18,16 @@ Front-end course from Kottans
 - [ ] Friends App - practice
 
 ### 1. Git intro
-This task a little bit extaned my understanging of git and showed the way to grow up
+This task a little bit extanded my understanging of git and showed the way to grow up
 <details><summary>Screenshots</summary>
   
-![GIT Main](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/git_main.png)
+![GIT Basic](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/learngitbranching_basic.png)
 
-![GIT Remote](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/git_remote.png)
+![GIT Remote](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/learngitbranching_remote.png)
 
-![Version Control with GIT](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/version_control_with_GIT_udacity.png)
+![Introduction to Version Control Week 1](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/coursera_first_week.png)
+
+![Using Git Locally Week 2](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/1-git_intro/coursera_second_week.png)
 
 </details>
 
@@ -38,7 +40,7 @@ Goog task to start learning bash
 </details>
 
 ### 3. Git Collaboration
-Rewiev what I've learnt refore
+Rewiev what I've learnt before
 <details><summary>Screenshots</summary>
   
 ![GitHub & Collaboration](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/3-git_collaboration/git_collabration_course.png)

@@ -35,7 +35,7 @@ This task a little bit extanded my understanging of git and showed the way to gr
 Goog task to start learning bash
 <details><summary>Screenshots</summary>
   
-![Linux Survival](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/2-task_linux_cli/linuxsurvival.com.png)
+![Linux Survival](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/2-task_linux_cli/linux_survival.png)
 
 </details>
 

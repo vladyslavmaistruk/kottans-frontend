@@ -40,9 +40,15 @@ Goog task to start learning bash
 </details>
 
 ### 3. Git Collaboration
-Rewiev what I've learnt before
+Review what I've learnt before
 <details><summary>Screenshots</summary>
   
-![GitHub & Collaboration](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/3-git_collaboration/git_collabration_course.png)
+![GitHub & Collaboration Coursera week 3](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/3-git_collaboration/coursera_week_3.png)
+
+![GitHub & Collaboration Coursera week 4](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/3-git_collaboration/coursera_week_4.png)
+
+![GitHub & Collaboration GIT Basic](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/3-git_collaboration/learngitbranching_basics.png)
+
+![GitHub & Collaboration GIT Remote](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/3-git_collaboration/learngitbranching_remote_repositories.png)
 
 </details>

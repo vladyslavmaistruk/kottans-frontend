@@ -52,3 +52,11 @@ Review what I've learnt before
 ![GitHub & Collaboration GIT Remote](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/3-git_collaboration/learngitbranching_remote_repositories.png)
 
 </details>
+
+### 4. Intro to HTML & CSS
+Remind tha basic of HTML
+<details><summary>Screenshots</summary>
+  
+![Intro to HTML & CSS Coursera week 1](https://github.com/vladyslavmaistruk/kottans-frontend/blob/main/4-Intro_to_html_css/coursera_week_1.png)
+
+</details>
